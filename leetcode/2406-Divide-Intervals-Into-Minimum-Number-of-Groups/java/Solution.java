@@ -1,4 +1,7 @@
+import java.util.*;
 public class Solution {
+
+
     public int minGroup(int[][] intervals) {
         if (intervals == null || intervals.length == 0) return 0;
 
